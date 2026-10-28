@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Testing and environments
+.pytest_cache/
+.coverage
+htmlcov/
+venv/
+env/
+.env
+
+# Large trace dataset clone (external MPI-SWS git repository)
+deathstarbench_traces/
+
+# Temporary / OS
+.DS_Store
+Thumbs.db
+*.bak
