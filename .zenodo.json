@@ -1,0 +1,32 @@
+{
+  "title": "Feedback-Driven Evolutionary Optimization for Stable and Efficient Fault Identification (AHD-SHGA)",
+  "description": "Official replication package and implementation of the AHD-SHGA framework (Adaptive Hyper-Diversity Surrogate-Assisted Hybrid Genetic Algorithm). Includes the core feedback controller, RBF Gaussian Process surrogate, 13 comparative metaheuristic algorithms, continuous CEC 2017 and Rastrigin benchmarks, DeathStarBench distributed trace fault localization, and pre-trained checkpoints with multi-run statistical evaluation.",
+  "creators": [
+    {
+      "name": "Panda, Radhe Shyam"
+    },
+    {
+      "name": "Sharma, Manisha"
+    },
+    {
+      "name": "Tiwari, Rajesh"
+    },
+    {
+      "name": "Pandey, Vikas"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "evolutionary-optimization",
+    "genetic-algorithms",
+    "surrogate-modeling",
+    "gaussian-processes",
+    "microservices",
+    "fault-localization",
+    "deathstarbench",
+    "diversity-regulation",
+    "cec2017"
+  ],
+  "upload_type": "software"
+}

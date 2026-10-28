@@ -19,3 +19,5 @@ deathstarbench_traces/
 .DS_Store
 Thumbs.db
 *.bak
+*.zip
+
